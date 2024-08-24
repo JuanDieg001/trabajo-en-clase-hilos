@@ -1,0 +1,1089 @@
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+Juan,P�rez,20,juan@example.com,MAT1234,Parvularia
+Mar�a,Garc�a,22,maria@example.com,MAT5678,Parvularia
+Pedro,Mart�nez,21,pedro@example.com,MAT91011,Administraci�n de Empresas
+Laura,L�pez,23,laura@example.com,MAT121314,Administraci�n de Empresas
+Carlos,S�nchez,19,carlos@example.com,MAT151617,Gastronom�a
+Ana,Ram�rez,24,ana@example.com,MAT181920,Gastronom�a
+Luis,Hern�ndez,22,luis@example.com,MAT212223,Desarrollo de Software
+Marta,D�az,21,marta@example.com,MAT242526,Desarrollo de Software
+Jorge,Fern�ndez,23,jorge@example.com,MAT272829,Asistencia en Educaci�n Inclusiva
+Sof�a,Morales,20,sofia@example.com,MAT303132,Asistencia en Educaci�n Inclusiva
+Diego,Rodr�guez,21,diego@example.com,MAT333435,Rehabilitaci�n F�sica
+Elena,Flores,22,elena@example.com,MAT363738,Rehabilitaci�n F�sica
+Ricardo,G�mez,24,ricardo@example.com,MAT394041,Marketing
+Patricia,Ruiz,23,patricia@example.com,MAT424344,Marketing
+Adri�n,Torres,20,adrian@example.com,MAT454647,Est�tica Integral
+Valeria,Ortiz,21,valeria@example.com,MAT484950,Est�tica Integral
+Gabriel,Vargas,22,gabriel@example.com,MAT515253,Mec�nica Automotriz
+Luc�a,Medina,19,lucia@example.com,MAT545556,Mec�nica Automotriz
+Emilio,Castillo,23,emilio@example.com,MAT575859,Educaci�n Inicial
+Camila,Ram�rez,20,camila@example.com,MAT606162,Educaci�n Inicial
+Felipe,Cruz,22,felipe@example.com,MAT636465,Odontolog�a
+Andrea,Castro,21,andrea@example.com,MAT666768,Odontolog�a
+David,Silva,23,david@example.com,MAT697071,Gestion del Talento Humano
+Rosa,Jim�nez,24,rosa@example.com,MAT727374,Gestion del Talento Humano
+Manuel,Molina,21,manuel@example.com,MAT757677,Contabilidad
+Paula,Soto,20,paula@example.com,MAT787980,Contabilidad
+Javier,N��ez,22,javier@example.com,MAT818283,Electricidad
+Isabel,Guerrero,23,isabel@example.com,MAT848586,Electricidad
+Fernando,Mart�nez,24,fernando@example.com,MAT878889,Inteligencia Artificial
+Julia,Reyes,21,julia@example.com,MAT909192,Inteligencia Artificial
+Enrique,Ram�rez,20,enrique@example.com,MAT939495,Enfermer�a
+Lorena,Ortiz,22,lorena@example.com,MAT969798,Enfermer�a
+

@@ -1,0 +1,22 @@
+---crear un entorno virtual en python:
+python -m venv myenv
+
+---activar ambiente virtual digitar:
+.\myenv\Scripts\activate
+
+---Salir de entorno virtual digitar:
+deactivate 
+
+
+---Dentro del entorno virtual instalar:
+--instalar mysql conector con python
+python -m pip install mysql-connector-python
+
+
+--instalar ORM de python:
+pip install sqlalchemy
+
+
+
+
+
